@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ml">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ATHAA ഫണ്ട് കളക്ഷൻ | SKSBV മാടായി സോൺ</title>
+    <meta name="description" content="SKSBV മാടായി സോണിന്റെ സുതാര്യമായ ഫണ്ട് കളക്ഷൻ പോർട്ടൽ. അഞ്ച് റേഞ്ചുകൾ, UPI സംഭാവന, അഡ്മിൻ സ്ഥിരീകരണം, ഡിജിറ്റൽ രസീത്, റേഞ്ച് തിരിച്ചുള്ള കണക്ക്." />
+    <meta name="keywords" content="ATHAA, SKSBV Madayi Zone, ഫണ്ട് കളക്ഷൻ, സംഭാവന, റേഞ്ച്, മാടായി, കണ്ണപുരം, മാട്ടൂൽ, ചെറുകുന്ന്, പുതിയങ്ങാടി" />
+    <meta name="theme-color" content="#1b4332" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="ATHAA – SKSBV മാടായി സോൺ" />
+    <meta property="og:title" content="ATHAA ഫണ്ട് കളക്ഷൻ | SKSBV മാടായി സോൺ" />
+    <meta property="og:description" content="റേഞ്ച് തിരിച്ചുള്ള സുതാര്യമായ ഫണ്ട് കളക്ഷൻ. UPI വഴി സംഭാവന നൽകാം, അഡ്മിൻ സ്ഥിരീകരണത്തിന് ശേഷം ഡിജിറ്റൽ രസീത്." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ATHAA ഫണ്ട് കളക്ഷൻ | SKSBV മാടായി സോൺ" />
+    <meta name="twitter:description" content="റേഞ്ച് തിരിച്ചുള്ള സുതാര്യമായ ഫണ്ട് കളക്ഷൻ. UPI സംഭാവന, അഡ്മിൻ സ്ഥിരീകരണം, ഡിജിറ്റൽ രസീത്." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.min.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
